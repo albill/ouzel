@@ -1,4 +1,4 @@
-ouzel
+Ouzel or "Big Dumb Bird"
 =====
 
 Ouzel is a [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) derivative RPG game. This is a working title for lack of anything better.
