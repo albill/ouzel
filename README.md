@@ -1,5 +1,6 @@
 Ouzel or "Big Dumb Bird"
 =====
+<img src="images/ouzel.png" align="right" hspace="10">
 
 Ouzel is a [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) derivative RPG game. This is a working title for lack of anything better.
 
@@ -9,6 +10,5 @@ Ouzel is a hack on Lady Blackbird to adapt it to a different setting for a mini-
 
 It will consist of setting notes, lightweight rules, and a series of sample characters with which to begin the game.
 
-<div style="text-align: center"><img src="setting/images/bdo-1.jpg" width="700"></div>
 
 
